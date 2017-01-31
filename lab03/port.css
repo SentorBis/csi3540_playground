@@ -1,0 +1,29 @@
+body {
+	background-color: black;
+	color: white;
+	margin: 50px;
+}
+
+div {
+	text-align: center;
+}
+
+h1 {
+	margin: 50px;
+	text-align: center;
+	font-size: 100px;
+}
+
+h2 {
+	margin: 30px;
+	font-size: 50px;
+}
+
+p {
+	margin: 20px;
+	font-family: helvetica;
+}
+
+br {
+	margin: 10px;
+}
